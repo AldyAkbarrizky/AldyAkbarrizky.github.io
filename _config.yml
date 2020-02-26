@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Aldy Akbarrizky"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/MySelf.PNG"
   bio              : "Man of Culture"
   location         : "Indonesia"
   email            :
